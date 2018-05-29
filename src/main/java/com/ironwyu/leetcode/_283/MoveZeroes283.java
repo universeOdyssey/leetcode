@@ -1,4 +1,4 @@
-package com.ironwyu.leetcode.MoveZeroes283;
+package com.ironwyu.leetcode._283;
 
 /**
  Given an array nums, write a function to move all 0's to the end of it while maintaining the relative order of the non-zero elements.

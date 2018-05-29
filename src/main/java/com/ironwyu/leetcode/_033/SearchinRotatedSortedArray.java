@@ -1,4 +1,4 @@
-package com.ironwyu.leetcode.SearchinRotatedSortedArray33;
+package com.ironwyu.leetcode._033;
 
 /**
  *

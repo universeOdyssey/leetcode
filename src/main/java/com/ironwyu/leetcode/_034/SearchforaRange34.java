@@ -1,4 +1,4 @@
-package com.ironwyu.leetcode.SearchforaRange34;
+package com.ironwyu.leetcode._034;
 
 /**
  Given an array of integers sorted in ascending order, find the starting and ending position of a given target value.

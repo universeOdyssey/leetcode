@@ -13,7 +13,7 @@
 
  */
 
-package com.ironwyu.leetcode.PalindromeNumber9;
+package com.ironwyu.leetcode._009;
 
 public class PalindromeNumber {
 

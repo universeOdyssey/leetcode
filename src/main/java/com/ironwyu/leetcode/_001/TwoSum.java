@@ -12,7 +12,7 @@ return [0, 1].
 
  **/
 
-package com.ironwyu.leetcode.TwoSum1;
+package com.ironwyu.leetcode._001;
 
 import java.util.*;
 

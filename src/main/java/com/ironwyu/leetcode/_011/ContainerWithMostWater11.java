@@ -1,4 +1,4 @@
-package com.ironwyu.leetcode.ContainerWithMostWater11;
+package com.ironwyu.leetcode._011;
 
 /**
  Given n non-negative integers a1, a2, ..., an, where each represents a point at coordinate (i, ai).

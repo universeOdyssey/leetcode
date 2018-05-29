@@ -23,7 +23,7 @@
 
  */
 
-package com.ironwyu.leetcode.ReverseInteger7;
+package com.ironwyu.leetcode._007;
 
 public class Reverse {
 

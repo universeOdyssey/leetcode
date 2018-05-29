@@ -1,4 +1,4 @@
-package com.ironwyu.leetcode.SearchInsertPosition35;
+package com.ironwyu.leetcode._035;
 
 /**
  * Given a sorted array and a target value, return the index if the target is found. If not,
